@@ -1,1 +1,1 @@
-Remove appearance menu, disable theme switching, disable frontend
+# Remove appearance menu, disable theme switching, disable frontend
